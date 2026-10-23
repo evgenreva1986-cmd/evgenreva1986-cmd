@@ -29,6 +29,7 @@ A passionate software developer focused on building functional applications, gam
 ### 📁 Featured Projects
 
 - **🤖 [tiktok-processor-bot](https://github.com)** — Telegram bot designed for processing TikTok media streams and identifying music in the background utilizing the **Shazam API**.
+- **🎤 [Lyric_song](https://github.com)** — Python console script that synchronizes lyric text scrolling dynamically with an active MP3 audio playback.
 - **🖥️ [CRM-for-computer-shop](https://github.com)** — Academic desktop management tool for retail stores using **C++ CLI (.NET)** and a local **SQLite** database.
 - **🎮 [Pygame_2D_shooter](https://github.com)** — Action arcade game showing core **OOP layout components** and vector-based pursuit formulas for simple enemy AI.
 - **🧮 [GUI_calculator](https://github.com)** — Desktop calculator engine using custom **recursive token algorithms** for parsing complex parenthesis structures.
@@ -44,4 +45,5 @@ A passionate software developer focused on building functional applications, gam
 ---
 
 🌐 *Feel free to explore my repositories or connect with me for future project collaborations!*
+
 
